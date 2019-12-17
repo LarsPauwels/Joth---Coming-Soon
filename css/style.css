@@ -1,4 +1,4 @@
-* {
+*:not(ul) {
     padding: 0;
     margin: 0;
     border: 0;
@@ -86,3 +86,7 @@ footer{
 .links{
     grid-column: span 2;
 }
+.center_content p{
+    padding: .5em 0;
+}
+
