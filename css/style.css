@@ -89,4 +89,14 @@ footer{
 .center_content p{
     padding: .5em 0;
 }
-
+.jac{
+    color: tomato;
+    height: 70px;
+}
+.social_media{
+    display: flex;
+}
+.social_media a{
+    display: block;
+    margin: .5em 1em;
+}
